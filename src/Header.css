@@ -1,0 +1,43 @@
+.header {
+  /* Sticky nav */
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  /* End Sticky nav styling*/
+  display: flex;  /* everything is placed on a row */
+  justify-content: space-evenly;
+  border-bottom: 0.1px solid lightgray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%
+}
+
+.header__left {
+  display: flex; /* everything is placed on a row */
+}
+
+.header__left > img {
+  object-fit: contain; /* keep the aspect ratio*/
+  height: 40px;
+  margin-right: 10px;
+}
+
+.header__search {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  border-radius: 5px;
+  height: 22px;
+  color: gray;
+  background-color: #eef3f8
+}
+
+.header__search > input {
+  outline: none; /* remove the blue box when on focus */
+  border: none; /* remove input border */ 
+  background: none; /* remove input background */
+}
+
+.header__right { 
+  display: flex; /* put the right header w/ icons in a row */
+}

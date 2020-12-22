@@ -3,6 +3,7 @@
 ## What's Inside? :
   * React Components
     * ### Header component that has the main sticky nav with `material-ui icons`
+    * ### Sidebar Component to properly display different regions of the page
   * Redux
   * Firebase (backend)
   * User Authentication using Firebase

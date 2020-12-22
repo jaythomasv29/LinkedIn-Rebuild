@@ -4,7 +4,7 @@
   top: 0;
   z-index: 999;
   /* End Sticky nav styling*/
-  display: flex;  /* everything is placed on a row */
+  display: flex; /* everything is placed on a row */
   justify-content: space-evenly;
   border-bottom: 0.1px solid lightgray;
   padding-top: 10px;

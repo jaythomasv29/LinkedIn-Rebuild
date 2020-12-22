@@ -5,16 +5,16 @@ import Header from './Header';
 function App() {
   return (
     <div className="app">
-      
-      {/* Header */}
-      <Header/>
-      
+      <Header />
 
+      <div className="app__body">
+        <Sidebar />
+      </div>
       {/* App Body */}
       {/* Sidebar */}
       {/* Feed */}
       {/* Widgets */}
-      
+
 
 
 

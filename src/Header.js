@@ -7,7 +7,7 @@ import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
 import ChatIcon from '@material-ui/icons/Chat';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';
-import AccountCircleIcon from '@material-ui/icons/AccountCircle';
+
 
 export default function Header() {
   return (

@@ -9,7 +9,9 @@
   border-bottom: 0.1px solid lightgray;
   padding-top: 10px;
   padding-bottom: 10px;
-  width: 100%
+  width: 100%;
+  background-color: white;
+  margin-bottom: 20px;
 }
 
 .header__left {

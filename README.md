@@ -9,6 +9,9 @@
 1. Right Section (Right Sidebar / Widget)
 
 #### Header Section
+*Header Breakdown
+![header](./mockup/header-mockup.png)
+
   * The header contains the top portion of the interface which is composed of a left section and right section
   * Left Section: Logo, Search Input
   * Right Section: Nav component that has many different links

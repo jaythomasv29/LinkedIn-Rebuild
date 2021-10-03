@@ -1,0 +1,24 @@
+.headerOption {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* align items on cross axis on column  */
+  color: grey;
+  cursor: pointer;
+  font-size: 10px;
+  margin-right: 20px;
+}
+
+.headerOption__avatar {
+  border-radius: 50%;
+  width: 25px;
+}
+
+
+.headerOption__title {
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.headerOption:hover {
+  color: black;
+}
